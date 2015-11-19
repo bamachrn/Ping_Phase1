@@ -1,0 +1,6 @@
+org\bk\consumer\PingApplication.class
+org\bk\consumer\controller\PingController.class
+org\bk\consumer\feign\PongClient.class
+org\bk\consumer\domain\MessageAcknowledgement.class
+org\bk\consumer\domain\Message.class
+org\bk\consumer\service\HystrixWrappedPongClient.class

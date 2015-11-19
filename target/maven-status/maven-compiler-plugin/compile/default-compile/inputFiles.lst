@@ -1,0 +1,6 @@
+C:\SpringCloud_Phase1\Ping_Phase1\src\main\java\org\bk\consumer\domain\Message.java
+C:\SpringCloud_Phase1\Ping_Phase1\src\main\java\org\bk\consumer\PingApplication.java
+C:\SpringCloud_Phase1\Ping_Phase1\src\main\java\org\bk\consumer\feign\PongClient.java
+C:\SpringCloud_Phase1\Ping_Phase1\src\main\java\org\bk\consumer\service\HystrixWrappedPongClient.java
+C:\SpringCloud_Phase1\Ping_Phase1\src\main\java\org\bk\consumer\domain\MessageAcknowledgement.java
+C:\SpringCloud_Phase1\Ping_Phase1\src\main\java\org\bk\consumer\controller\PingController.java
